@@ -1,0 +1,16 @@
+{
+  "name": "tmp-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server -p 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
